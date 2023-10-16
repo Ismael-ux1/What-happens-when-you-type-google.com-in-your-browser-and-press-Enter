@@ -1,5 +1,4 @@
-🚀 https://github.com/Ismael-ux1/What-happens-when-you-type-google.com-in-your-browser-and-press-Enter/blob/master/README.md#what-happens-when-you-type-googlecom-in-your-browser-and-press-enter
-
+🚀 What Happens When You Type “google.com” Into Your Browser?
 
 We all use web browsers daily to navigate the internet, but have you ever wondered what goes on behind the scenes when you type “google.com” into your browser’s address bar and press Enter? It’s a fascinating journey through the inner workings of the internet, involving a variety of technologies. In this blog post, I'm going to take you on a brief tour through the eight steps involved, keeping it accessible to both technical and non-technical readers. 🌐
 
